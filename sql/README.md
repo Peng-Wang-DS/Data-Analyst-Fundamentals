@@ -1,6 +1,9 @@
-This project uses a local database created based on CSVs file downloaded from Kaggle. The SQL files in this folder contain the queries used for practicing SQL Server.
+** This repo is when i read 'SQL QUERIES FOR MERE MORETALS' and practice;
+I created local databases based on CSVs file downloaded from Kaggle. 
+The SQL files in this folder contain the queries used for practicing with SQL Server.**
 
 
+below is how to set up local database for it:
 
 # Step 1 — Copy the CSV into the running container
 
