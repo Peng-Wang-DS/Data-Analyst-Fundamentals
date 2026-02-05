@@ -1,0 +1,1 @@
+This project uses a local database created with the help of ChatGPT, based on a CSV file downloaded from Kaggle. The SQL files in this folder contain the queries used for practicing SQL Server.
