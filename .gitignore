@@ -1,1 +1,17 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Excel temp files
 ~$*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Spark / notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
