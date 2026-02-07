@@ -15,7 +15,7 @@ WITH rating_counts as (
     FROM dbo.netflix_titles_raw
     WHERE rating IS NOT NULL
     GROUP BY type, rating
-),
+) ,
 ranked_ratings as (
     SELECT 
         type,
